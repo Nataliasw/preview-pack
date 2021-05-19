@@ -1,0 +1,41 @@
+* {
+  font-family: "Roboto Mono";
+  font-weight: 200;
+}
+
+.welcome {
+  font-family: "Roboto Mono";
+  font-weight: 700;
+  font-size: 6rem;
+  text-align: center;
+  color: #EB6B5E;
+}
+
+.introduction {
+  border: 1px solid gray;
+  padding: 3%;
+  padding-left: 5%;
+  margin-bottom: 3%;
+
+}
+
+.padded {
+  padding-bottom: 2%;
+
+}
+
+.desc-title {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+ul {
+  list-style-type: circle;
+  margin-left: 1.5%;
+}
+
+.inde {
+  margin-left: 2%;
+  list-style-type: square;
+  color: #EB6B5E;
+}

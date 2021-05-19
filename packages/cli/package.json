@@ -1,0 +1,30 @@
+{
+  "name": "preview-pack",
+  "version": "1.0.0",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "dist/index.js",
+  "scripts": {
+    "start": "tsc --watch --preserveWatchOutput",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "esbuild src/index.ts --platform=node --outfile=dist/index.js --bundle --minify --define:process.env.NODE_ENV=\"production\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@preview-pack/local-client": "^1.0.0"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@preview-pack/local-api": "^1.0.0",
+    "commander": "^7.2.0",
+    "@types/node": "^15.3.0",
+    "esbuild": "^0.12.1",
+    "typescript": "^4.2.4"
+  }
+}

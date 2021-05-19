@@ -1,0 +1,27 @@
+.editor-wrapper .mtk9.JSXElement.JSXBracket {
+  color: hotpink;
+}
+
+.editor-wrapper .mtk22.JSXElement.JSXText {
+  color: rgb(255, 210, 223) !important;
+}
+
+.editor-wrapper .mtk1.JSXElement.JSXText {
+  color: rgb(255, 210, 223) !important;
+}
+
+.editor-wrapper .mtk1.JSXElement.JSXIdentifier {
+  color: mediumpurple
+}
+
+.editor-wrapper .mtk8 {
+  color: rgb(224, 22, 218)
+}
+
+.editor-wrapper .mtk6 {
+  color: rgb(106, 230, 193)
+}
+
+.editor-wrapper .mtk9.JSXExpressionContainer.JSXBracket {
+  color: blue;
+}
