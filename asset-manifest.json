@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/preview-pack/static/css/main.2b2acbe9.chunk.css",
+    "main.js": "/preview-pack/static/js/main.35fa817b.chunk.js",
+    "main.js.map": "/preview-pack/static/js/main.35fa817b.chunk.js.map",
+    "runtime-main.js": "/preview-pack/static/js/runtime-main.d7551d64.js",
+    "runtime-main.js.map": "/preview-pack/static/js/runtime-main.d7551d64.js.map",
+    "static/css/2.cf480da1.chunk.css": "/preview-pack/static/css/2.cf480da1.chunk.css",
+    "static/js/2.d354aa0e.chunk.js": "/preview-pack/static/js/2.d354aa0e.chunk.js",
+    "static/js/2.d354aa0e.chunk.js.map": "/preview-pack/static/js/2.d354aa0e.chunk.js.map",
+    "index.html": "/preview-pack/index.html",
+    "static/css/2.cf480da1.chunk.css.map": "/preview-pack/static/css/2.cf480da1.chunk.css.map",
+    "static/css/main.2b2acbe9.chunk.css.map": "/preview-pack/static/css/main.2b2acbe9.chunk.css.map",
+    "static/js/2.d354aa0e.chunk.js.LICENSE.txt": "/preview-pack/static/js/2.d354aa0e.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/preview-pack/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7551d64.js",
+    "static/css/2.cf480da1.chunk.css",
+    "static/js/2.d354aa0e.chunk.js",
+    "static/css/main.2b2acbe9.chunk.css",
+    "static/js/main.35fa817b.chunk.js"
+  ]
+}
