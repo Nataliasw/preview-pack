@@ -17,12 +17,29 @@ Project is created with:
 * Typescript
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using npx:
 
 ```
-$ npm install -g preview-pack
+$ npx -g preview-pack serve
 $ 
-$ npm start
 ```
+
+To open it with a different port:
+```
+$ npx -g preview-pack serve -port 5004
+or 
+$ npx -g preview-pack serve -p 5004
+
+```
+
+To open new/different document:
+
+```
+$ npx -g preview-pack serve notebook.js
+
+```
+You can also see my project here:
 
 https://nataliasw.github.io/preview-pack/
+
+Project is based on Stephen Grider Typescript and React course. It is written for educational purposes.
