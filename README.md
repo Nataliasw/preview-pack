@@ -20,22 +20,21 @@ Project is created with:
 To run this project, install it locally using npx:
 
 ```
-$ npx -g preview-pack serve
-$ 
+$ npx preview-pack@latest serve
 ```
 
 To open it with a different port:
 ```
-$ npx -g preview-pack serve -port 5004
+$ npx preview-pack serve -port 5004
 or 
-$ npx -g preview-pack serve -p 5004
+$ npx preview-pack serve -p 5004
 
 ```
 
 To open new/different document:
 
 ```
-$ npx -g preview-pack serve notebook.js
+$ npx preview-pack serve notebook.js
 
 ```
 You can also see my project here:
