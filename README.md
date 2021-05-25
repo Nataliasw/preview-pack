@@ -41,4 +41,4 @@ You can also see my project here:
 
 https://nataliasw.github.io/preview-pack/
 
-Project is based on Stephen Grider Typescript and React course. It is written for educational purposes.
+Project is based on Stephen Grider's Typescript and React course. It is written for educational purposes.
